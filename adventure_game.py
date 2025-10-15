@@ -1,5 +1,5 @@
 """
-Choose Your Own Adventure: The Mysterious Island
+The Mysterious Island
 A text-based adventure game created with GitHub Copilot
 """
 
