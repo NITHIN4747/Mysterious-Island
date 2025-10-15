@@ -1,4 +1,4 @@
-# 🏝️ Choose Your Own Adventure: The Mysterious Island
+# 🏝️The Mysterious Island
 
 A text-based interactive adventure game created with GitHub Copilot for the MLH Challenge!
 
